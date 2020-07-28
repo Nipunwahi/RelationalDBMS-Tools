@@ -2,13 +2,13 @@
 Database Systems Project <br>
 
 # Team:
-1.Nipun Wahi <br>
-2.Hrithik kulkarni <br>
-3.Mir Ameen Mohideen <br>
+- Nipun Wahi
+- Hrithik Kulkarni
+- Mir Ameen Mohideen
 
 # Compilation
-- Compile file using "javac Main.java" 
-- Run the program using "java Main"
+1. Compile file using "javac Main.java" 
+2. Run the program using "java Main"
 
 
  
